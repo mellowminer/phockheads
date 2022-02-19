@@ -94,6 +94,10 @@ subs: 27
     image: https://i.imgur.com/uOPJAyd.gif
     supply: 100
   -
+    name: WPENG
+    image: https://i.imgur.com/HzLazYW.gif
+    supply: 100
+  -
     name: PFI
     image: https://i.imgur.com/nhgpfQp.gif
     supply: 100
@@ -112,6 +116,10 @@ subs: 27
   -
     name: AWKWARDLOOK
     image: https://i.imgur.com/wVtCYkM.gif
+    supply: 100
+  -
+    name: BTCMFER
+    image: https://i.imgur.com/lr8Cnf0.gif
     supply: 100
 
 # Do NOT edit beyond here
